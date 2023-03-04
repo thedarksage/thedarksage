@@ -1,9 +1,14 @@
-### Hi!!
+### Hi, Welcome to Shantanu's github profile!!
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=thedarksage&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thedarksage&langs_count=5&theme=tokyonight)]()
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thedarksage&show_icons=true&theme=tokyonight" alt="thedarksage" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedarksage&layout=compact&hide=html&theme=merko" alt="thedarksage" />
+<div/>
+<br />
 
 <!--
 **thedarksage/thedarksage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
